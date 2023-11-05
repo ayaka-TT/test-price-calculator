@@ -16,7 +16,8 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@formkit/vue": "^1.2.2",
+    "@formkit/nuxt": "^1.2.2",
+    "@nuxtjs/i18n": "^8.0.0-rc.5",
     "@pinia/nuxt": "^0.5.1",
     "pinia": "^2.1.7"
   }
